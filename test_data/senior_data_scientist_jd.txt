@@ -1,0 +1,37 @@
+Job Title: Senior Data Scientist
+Location: Remote/San Francisco, CA
+Salary: $150K - $220K
+
+About the Role:
+We are seeking an experienced Senior Data Scientist to lead our machine learning initiatives. You will work on cutting-edge projects involving large-scale data processing, statistical modeling, and AI/ML system design.
+
+Requirements:
+- 6+ years of experience in data science, machine learning, or related field
+- Strong proficiency in Python, R, SQL
+- Experience with machine learning frameworks (TensorFlow, PyTorch, scikit-learn)
+- Advanced statistics and statistical modeling expertise
+- Experience with big data technologies (Spark, Hadoop)
+- Strong understanding of data visualization tools (Tableau, matplotlib, Plotly)
+- Excellent communication and presentation skills
+- Master's degree in Computer Science, Statistics, Mathematics, or related field
+
+Preferred Qualifications:
+- PhD in a quantitative field
+- Published research papers or Kaggle competition wins
+- Experience with deep learning and neural networks
+- Cloud platform experience (AWS, GCP, Azure)
+- Leadership and mentoring experience
+- Experience with MLOps and model deployment
+- Apache Spark expertise
+
+Responsibilities:
+- Design and implement machine learning models for business problems
+- Conduct statistical analysis and hypothesis testing
+- Build end-to-end ML pipelines
+- Mentor junior data scientists
+- Collaborate with product and engineering teams
+- Present findings to stakeholders
+- Evaluate new ML techniques and technologies
+
+Domain: Data Science/AI
+Seniority: Senior

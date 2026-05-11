@@ -1,0 +1,33 @@
+SARAH JOHNSON
+sarah.j@email.com
++1-555-987-6543
+
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 7 years of experience. Strong background in backend systems, Python, and cloud infrastructure. Passionate about AI and currently transitioning to ML engineering role.
+
+TECHNICAL SKILLS
+Python, FastAPI, SQL, Docker, microservices, system design, communication, leadership, project management
+
+WORK EXPERIENCE
+
+Senior Backend Engineer - CloudServices Ltd (2022-Present)
+- Architect scalable backend systems using FastAPI and Python
+- Led infrastructure migration to Kubernetes
+- 7 years experience as software engineer
+- Managed team of 4 engineers
+
+Full Stack Developer - StartupXYZ (2018-2022)
+- Built web applications with Python backend
+- Deployed on AWS and Google Cloud
+- Led 3 technical projects
+
+EDUCATION
+Master's Degree in Computer Science - UC Berkeley (2018)
+B.S. Mathematics - UC Davis (2016)
+
+CERTIFICATIONS
+Docker Certified Associate
+
+ADDITIONAL INFO
+Strong communication and mentoring skills
+Leadership in cross-functional projects

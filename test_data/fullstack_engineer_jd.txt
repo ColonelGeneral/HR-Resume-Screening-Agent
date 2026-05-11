@@ -1,0 +1,43 @@
+Job Title: Full Stack Engineer
+Location: Austin, TX / Remote
+Salary: $120K - $160K
+
+About the Role:
+We're looking for a talented Full Stack Engineer to help us build scalable web applications. You'll work with modern Python and JavaScript frameworks, containerization, and cloud technologies. This role offers the opportunity to make a significant impact on our product.
+
+Requirements:
+- 4-5 years of full stack development experience
+- Strong proficiency in Python and JavaScript
+- Experience with FastAPI, Django, or similar Python frameworks
+- Experience with React, Vue, or Angular
+- Solid understanding of relational databases (PostgreSQL, MySQL)
+- Experience with Docker and containerization
+- Knowledge of REST APIs and microservices architecture
+- Familiarity with Git and modern development workflows
+- Strong problem-solving and communication skills
+- Bachelor's degree in Computer Science or related field
+
+Preferred Qualifications:
+- Experience with Kubernetes and orchestration
+- AWS or GCP cloud platform expertise
+- Experience with CI/CD pipelines
+- Knowledge of SQL and query optimization
+- NoSQL database experience (MongoDB, Redis)
+- Experience with GraphQL
+- Agile/Scrum experience
+- Open source contributions
+- Experience with machine learning frameworks (optional)
+
+Responsibilities:
+- Design and develop full stack features
+- Implement both frontend and backend components
+- Optimize application performance
+- Collaborate with product and design teams
+- Maintain code quality through testing and reviews
+- Deploy and monitor applications
+- Troubleshoot and debug issues
+- Mentor junior developers
+- Stay updated with emerging technologies
+
+Domain: Software Engineering
+Seniority: Mid-Level

@@ -1,0 +1,33 @@
+JOHN SMITH
+john.smith@email.com
++1-555-123-4567
+
+SUMMARY
+Experienced AI Engineer with 6 years of expertise in machine learning, Python, and FastAPI. Published research on NLP models. AWS certified. Led team of 5 engineers on production ML systems.
+
+SKILLS
+Python, FastAPI, SQL, Docker, Kubernetes, Machine Learning, NLP, TensorFlow, PyTorch, AWS, GCP, Git, Prompt Engineering
+
+EXPERIENCE
+
+Senior AI Engineer - TechCorp (2021-Present)
+- Led development of production-grade NLP pipeline serving 10M+ users
+- Designed and deployed FastAPI microservices on AWS
+- Mentored 3 junior engineers
+- 6 years total as software engineer
+
+AI/ML Engineer - DataSystems Inc. (2019-2021)
+- Built machine learning models for customer segmentation
+- Developed Python backend for ML inference
+- Worked with Kubernetes for orchestration
+
+EDUCATION
+B.S. Computer Science - Stanford University (2017)
+
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Google Cloud Professional
+
+PROJECTS
+- Built open-source NLP library (2000+ GitHub stars)
+- Published 2 papers on transformer models in top-tier venues

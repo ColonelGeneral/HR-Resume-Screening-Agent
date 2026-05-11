@@ -1,0 +1,27 @@
+Job Title: Senior AI Engineer
+
+We are hiring a Senior AI Engineer with expertise in machine learning, Python, and FastAPI.
+
+Requirements:
+- 5+ years of experience in software engineering
+- Strong proficiency in Python, FastAPI, SQL
+- Experience with machine learning and NLP
+- Bachelor's degree in Computer Science or related field
+- Excellent communication skills
+
+Preferred Qualifications:
+- Experience with Docker and Kubernetes
+- AWS or GCP certified
+- Experience with LLMs and prompt engineering
+- Published research or GitHub projects
+- Leadership experience
+
+Responsibilities:
+- Design and build scalable AI systems
+- Develop machine learning pipelines
+- Work with cross-functional teams
+- Mentor junior engineers
+- Contribute to open source projects
+
+Domain: AI/ML
+Seniority: Senior

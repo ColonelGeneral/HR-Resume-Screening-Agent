@@ -1,0 +1,39 @@
+Job Title: Junior Frontend Developer
+Location: New York, NY / Remote
+Salary: $60K - $85K
+
+About the Role:
+Join our fast-growing startup as a Junior Frontend Developer. You will build beautiful, responsive user interfaces using modern web technologies. This is an excellent opportunity to learn and grow in a collaborative environment.
+
+Requirements:
+- 1-2 years of professional frontend development experience
+- Strong proficiency in JavaScript, HTML5, CSS3
+- Experience with React or Vue.js
+- Understanding of responsive design and mobile-first development
+- Basic knowledge of version control (Git)
+- Familiarity with RESTful APIs
+- Strong problem-solving skills
+- Bachelor's degree in Computer Science or related field (or equivalent experience)
+
+Preferred Qualifications:
+- Experience with Next.js or similar frameworks
+- TypeScript knowledge
+- Experience with state management (Redux, Zustand)
+- Basic understanding of backend concepts
+- Experience with testing frameworks (Jest, React Testing Library)
+- Knowledge of web accessibility (WCAG)
+- Portfolio with personal projects
+- Familiarity with Figma or design tools
+
+Responsibilities:
+- Develop responsive and interactive user interfaces
+- Collaborate with designers and backend developers
+- Optimize frontend performance
+- Write clean, maintainable code
+- Participate in code reviews
+- Learn and grow with our tech team
+- Debug and troubleshoot frontend issues
+- Implement UI/UX improvements based on feedback
+
+Domain: Web Development
+Seniority: Junior

@@ -1,0 +1,28 @@
+MICHAEL CHEN
+michael.chen@email.com
+(555) 555-0123
+
+PROFILE
+Software developer with 2 years of experience. Familiar with Python and web development. Looking to grow in tech industry.
+
+SKILLS
+Python, JavaScript, HTML/CSS, basic SQL, Excel
+
+EXPERIENCE
+
+Junior Developer - WebDesign Co (2023-Present)
+- 2 years as software developer
+- Built simple web applications
+- Fixed bugs and assisted senior developers
+
+Intern - TechStartup (2022-2023)
+- Web development internship
+- Learned Python basics
+- Built simple features
+
+EDUCATION
+B.A. Computer Science - State University (2022)
+
+INTERESTS
+Learning machine learning
+Web development
