@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-production%20ready-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![React](https://img.shields.io/badge/react-18-blue)
 
-## 🚀 Overview
+## Overview
 
 The **HR Shortlisting Agent** is a production-ready full-stack application that helps HR professionals efficiently screen and shortlist candidates. It combines:
 
@@ -15,22 +15,22 @@ The **HR Shortlisting Agent** is a production-ready full-stack application that 
 - **React Frontend** with modern UI/UX
 - **PDF/DOCX/Text File Support** for resume parsing
 
-## 📊 Key Features
+## Key Features
 
-✅ **Intelligent Resume Parsing** - Support for PDF, DOCX, TXT formats
-✅ **Smart Candidate Ranking** - 5-dimension scoring algorithm
-✅ **RAG-Powered Analysis** - Semantic similarity using embeddings
-✅ **HR Workflow Management** - Job description upload and batch evaluation
-✅ **Professional UI** - Landing page, upload criteria, real-time results
+**Intelligent Resume Parsing** - Support for PDF, DOCX, TXT formats
+**Smart Candidate Ranking** - 5-dimension scoring algorithm
+**RAG-Powered Analysis** - Semantic similarity using embeddings
+**HR Workflow Management** - Job description upload and batch evaluation
+**Professional UI** - Landing page, upload criteria, real-time results
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend:** Python 3.10+, FastAPI, SQLAlchemy, FAISS, Sentence Transformers
 **Frontend:** React 18, Vite, Axios, CSS3
 **Database:** SQLite
 **Infrastructure:** Uvicorn, Docker-ready
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 RAG Pipleiiine TCI/
@@ -48,7 +48,7 @@ RAG Pipleiiine TCI/
 └── README.md
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Backend Setup
 ```bash
@@ -57,7 +57,7 @@ python -m venv .venv
 pip install -r requirements.txt
 python -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
 ```
-✅ Backend: **http://127.0.0.1:8000**
+Backend: 
 
 ### Frontend Setup
 ```bash
@@ -65,12 +65,7 @@ cd frontend
 npm install
 npm run dev
 ```
-✅ Frontend: **http://localhost:3000**
-
-### API Documentation
-Visit **http://127.0.0.1:8000/docs** for interactive documentation
-
-## 📊 Scoring Algorithm
+## Scoring Algorithm
 
 **5-Dimensional Weighted Rubric:**
 - Skills Match (30%) - Semantic similarity between JD and resume
@@ -81,7 +76,7 @@ Visit **http://127.0.0.1:8000/docs** for interactive documentation
 
 **Example:** Skills: 80×0.30 + Experience: 85×0.25 + Education: 90×0.15 + Projects: 75×0.20 + Communication: 80×0.10 = **82.75/100**
 
-## 🔌 API Endpoints
+## API Endpoints
 
 ```
 GET    /health                    - Health check
@@ -92,7 +87,7 @@ GET    /rankings/{job_id}        - Get rankings for job
 POST   /override                 - Override score manually
 ```
 
-## 🧪 Testing
+##  Testing
 
 Sample test data included in `test_data/`. Run tests:
 ```bash
@@ -106,28 +101,28 @@ python run_tests.py
 | Sarah (7 yr) | 56.88 | 42.85 | **62.73** ⭐ |
 | Michael (2 yr) | 32.84 | **49.19** | 37.02 |
 
-## 📈 Performance
+##  Performance
 
 - Embedding Model: all-MiniLM-L6-v2 (384 dims)
 - Vector Search: FAISS (L2 distance)
 - Avg Evaluation: <500ms per candidate
 - Database: SQLite (<50K records)
 
-## 🐳 Docker
+##  Docker
 
 ```bash
 docker build -t hr-shortlisting-agent .
 docker run -p 8000:8000 -p 3000:3000 hr-shortlisting-agent
 ```
 
-## 🔐 Security
+##  Security
 
-✅ Pydantic validation  
-✅ File type & size validation  
-✅ SQL injection protection (SQLAlchemy ORM)  
-⚠️ Production: Add authentication, use env vars, enable HTTPS
+Pydantic validation  
+File type & size validation  
+SQL injection protection (SQLAlchemy ORM)  
+Production: Add authentication, use env vars, enable HTTPS
 
-## 🚨 Troubleshooting
+##  Troubleshooting
 
 **Backend won't start:**
 ```bash
@@ -140,12 +135,12 @@ taskkill /PID <PID> /F
 - Verify CORS in `app/main.py`
 - Clear browser cache
 
-## 📚 Database Schema
+##  Database Schema
 
 4 tables: jobs, candidates, evaluations, score_overrides
 All with automatic timestamps and relationships
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork repository
 2. Create feature branch: `git checkout -b feature/name`
@@ -154,11 +149,11 @@ All with automatic timestamps and relationships
 5. Push: `git push origin feature/name`
 6. Open PR
 
-## 📄 License
+##  License
 
 MIT License - see LICENSE file
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Sentence Transformers (embeddings)
 - FAISS (vector search)
@@ -166,13 +161,13 @@ MIT License - see LICENSE file
 - React (UI library)
 - SQLAlchemy (ORM)
 
-## 📞 Support
+##  Support
 
-- 🐛 Bug Reports: GitHub Issues
-- 💡 Feature Requests: GitHub Discussions
-- 📖 Documentation: Check docs/
+-  Bug Reports: GitHub Issues
+-  Feature Requests: GitHub Discussions
+-  Documentation: Check docs/
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Authentication & authorization
 - [ ] Advanced filtering & search
